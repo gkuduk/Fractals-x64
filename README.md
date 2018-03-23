@@ -13,8 +13,8 @@ Left-click to zoom-in (needs time for recalculation), right-click to reset zoom.
 ## Example
 ./result 50 0.3 0.6
 
-![](/../Screenshots/ss1.png?raw=true)
+![](/../screenshots/ss1.png?raw=true)
 
-![](/../Screenshots/ss2.png?raw=true)
+![](/../screenshots/ss2.png?raw=true)
 
-![](/../Screenshots/ss3.png?raw=true)
+![](/../screenshots/ss3.png?raw=true)
